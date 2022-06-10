@@ -1,0 +1,35 @@
+* {
+  color: #995353;
+  box-sizing: border-box;
+}
+.loginArea {
+  min-height: 80vh;
+}
+
+.input-group .input-group-text {
+  border: 0px;
+}
+
+.dateDay {
+  line-height: 40px;
+  font-size: 50px;
+  font-weight: bolder;
+  color: #d58282;
+}
+
+.dateYear {
+  font-weight: bold;
+  color: #d58282;
+}
+
+.h4 {
+  font-weight: normal !important;
+}
+
+#datepicker {
+  display: none;
+}
+
+.cursor {
+  cursor: pointer;
+}
